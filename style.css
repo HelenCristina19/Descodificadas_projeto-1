@@ -1,0 +1,23 @@
+*{
+    background-color: aquamarine;
+}
+
+div{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+}
+.azul{
+    background-color: blue;
+}
+
+.vermelho{
+    background: #FF0000;
+}
+
+.verde{
+    background: rgb(0, 255, 0);
+}
+#x{
+    border: 3px solid black;
+}
